@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body{
+    padding: 80px;
+    background: purple;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+
+}
+
+.titulo{
+    color: ghostwhite;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.noticia{
+    color: ghostwhite;
+    padding: 20px;
+    margin: 20px;
+}
+
+.principal img{
+    text-align: center;
+
+}
